@@ -16,8 +16,7 @@ social:
 organizations:
   - name: Cincinnati Children's Hospital Medical Center
     url: http://www.cincinnatichildrens.org
-education:
-  courses: []
+education: null
 email: ""
 superuser: true
 user_groups:
