@@ -1,13 +1,13 @@
 ---
 title: Learning Communities
 abstract: "Instructor for a small group of second year medical students focused
-  on clinical reasoning and case-based learning. "
+  on clinical reasoning. We meet weekly to discuss cases"
 location: University of Cincinnati
-date: 2019-07-01T19:20:17.713Z
-date_end: 2021-01-10T20:22:01.637Z
+date: 2019-07-01
+date_end: 2021-06-30
 all_day: false
-event: "test "
-event_url: "test "
+event: ""
+event_url: ""
 publishDate: 2021-01-10T20:20:17.833Z
 draft: false
 featured: false
