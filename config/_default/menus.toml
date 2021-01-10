@@ -9,23 +9,23 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Teaching Philosophy"
+  url = "#philosphy"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Education Projects"
+  url = "#ed-projects"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Teaching Experience"
+  url = "#talks"
   weight = 40
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
+  name = "Publications"
+  url = "#publications"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
