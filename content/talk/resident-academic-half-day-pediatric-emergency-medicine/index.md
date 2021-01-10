@@ -8,8 +8,8 @@ location: University of Minnesota
 date: 2020-12-18T20:42:03.920Z
 date_end: 2020-12-18T05:00:00.000Z
 all_day: true
-event: '""'
-event_url: '""'
+event: Pediatric Residency Program Block Education
+# event_url: '""'
 publishDate: 2021-01-10T20:42:04.042Z
 draft: false
 featured: false
