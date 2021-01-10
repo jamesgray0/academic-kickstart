@@ -6,7 +6,7 @@ abstract: "Invited to present an evidence-based approach to shared decision
   intervention. "
 location: University of Minnesota
 date: 2020-12-18T20:42:03.920Z
-date_end: 2020-12-18T05:00:00.000Z
+# date_end: 2020-12-18T05:00:00.000Z
 all_day: true
 event: Pediatric Residency Program Block Education
 # event_url: '""'
