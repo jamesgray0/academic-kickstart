@@ -10,7 +10,9 @@ authors:
 - Scott A Lunos
 - Ronald A Furnival
 - Marissa A Hendrickson
-tags: []
+tags: 
+  - ondansetron
+  - clinical
 categories: []
 date: '2020-01-01'
 lastmod: 2021-01-10T14:31:09-05:00
@@ -35,5 +37,5 @@ publishDate: '2021-01-10T19:31:07.798729Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Pediatric emergency care*'
+publication: '*Pediatric Emergency Care*'
 ---
