@@ -5,7 +5,7 @@ abstract: "Instructor for a small group of second year medical students focused
 location: University of Cincinnati
 date: 2019-07-01
 date_end: 2021-06-30
-all_day: false
+all_day: true
 event: ""
 event_url: ""
 publishDate: 2021-01-10T20:20:17.833Z
