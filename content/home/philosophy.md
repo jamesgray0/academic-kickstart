@@ -6,7 +6,7 @@
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 15  # Order that this section will appear.
 
 title = "Teaching Philosophy"
 subtitle = ""
@@ -25,8 +25,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
+  # gradient_start = "DarkGreen"
+  # gradient_end = "ForestGreen"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
@@ -50,20 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-## Teaching Philosophy
-
 My passion for education stems from my desire to help those around me succeed. I hope that by teaching and leading from a place of humility and understanding, I can help students, residents, and fellows provide best possible care to children and their families. All learners are different, and educators are responsible for teaching in a way that reaches them and encourages them to be excellent. At the center of all medical education lies the patient, and by creating a welcoming, questioning, positive learning environment we can encourage our trainees to strive to always be the best for their patients. 
 
 I believe that as our ability to gather more granular data on trainees and their experience, we should use it to inform curricular experience, bedside teaching, and formative assessment. Harnessing the data from the medical record, high-frequency feedback (eg, entrustable professional activities), video review, and other sources, will allow us to better gauge learner success and advancement. As we gather this data, we must keep in mind that it does not represent the lived experience of the patient or the learner, and it must be placed in appropriate context.  
 
-{{% callout note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
-
-**To remove this section, delete `content/home/demo.md`.**
-{{% /callout %}}
-
-## Get inspired
-
-[Check out the Markdown files](https://github.com/wowchemy/starter-academic/tree/master/exampleSite) which power the [Academic Demo](https://academic-demo.netlify.app), or [view the showcase](https://wowchemy.com/user-stories/).
