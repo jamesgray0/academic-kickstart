@@ -19,9 +19,6 @@ organizations:
 education: null
 email: ""
 superuser: true
-user_groups:
-  - Researchers
-  - Visitors
 highlight_name: false
 ---
 James is a clinical fellow in pediatric emergency medicine at Cincinnati Children's. His interests are in the intersection of technology, education, and the emergency care of acutely ill and injured children.
