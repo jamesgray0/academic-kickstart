@@ -5,8 +5,9 @@ draft: false
 featured: false
 tags:
   - education
+  - curriculum
 categories: []
-external_link: '""'
+# external_link: 
 image:
   filename: featured
   focal_point: Smart
