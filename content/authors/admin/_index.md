@@ -21,4 +21,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a clinical fellow in pediatric emergency medicine at Cincinnati Children's. My interests are in the intersection of technology, education, and the emergency care of acutely ill and injured children.
+I am a clinical fellow in pediatric emergency medicine and master's student in medical education at Cincinnati Children's. My interests are in the intersection of technology, education, and the emergency care of acutely ill and injured children.
