@@ -5,10 +5,10 @@
 
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 10  # Order that this section will appear.
 
-title = "Academic Template"
+title = "Teaching Philosophy"
 subtitle = ""
 
 [design]
@@ -50,28 +50,11 @@ subtitle = ""
  css_class = ""
 +++
 
-## 👋 Welcome to the Academic Template
+## Teaching Philosophy
 
-The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.
+My passion for education stems from my desire to help those around me succeed. I hope that by teaching and leading from a place of humility and understanding, I can help students, residents, and fellows provide best possible care to children and their families. All learners are different, and educators are responsible for teaching in a way that reaches them and encourages them to be excellent. At the center of all medical education lies the patient, and by creating a welcoming, questioning, positive learning environment we can encourage our trainees to strive to always be the best for their patients. 
 
-[Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
-
-[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
-
-- 👉 [**Get Started**](https://wowchemy.com/docs/install/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/update/) and [Release Notes](https://wowchemy.com/updates/)
-
-## Crowd-funded open-source software
-
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
-
-### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
-
-## You're looking at a Wowchemy _widget_
+I believe that as our ability to gather more granular data on trainees and their experience, we should use it to inform curricular experience, bedside teaching, and formative assessment. Harnessing the data from the medical record, high-frequency feedback (eg, entrustable professional activities), video review, and other sources, will allow us to better gauge learner success and advancement. As we gather this data, we must keep in mind that it does not represent the lived experience of the patient or the learner, and it must be placed in appropriate context.  
 
 {{% callout note %}}
 This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
