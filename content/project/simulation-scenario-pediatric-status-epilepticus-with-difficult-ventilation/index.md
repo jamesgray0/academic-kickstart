@@ -5,7 +5,7 @@ draft: false
 featured: false
 tags:
   - simulation
-external_link: '""'
+  - education
 links: []
 image:
   filename: screenshot-2021-01-10-163201.png
