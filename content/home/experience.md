@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Education"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,41 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Clinical Fellow, Pediatric Emergency Medicine"
+  company = "Cincinnati Children's Hospital Medical Center"
+  company_url = "http://cincinnatichildrens.org"
+  location = ""
+  date_start = "2018-07-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Master's in Education"
+  company = "University of Cincinnati"
+  company_url = ""
+  location = ""
+  date_start = "2019-01-01"
+  date_end = ""
+  description = """"""
+
+[[experience]]
+  title = "Chief Resident, Pediatrics"
+  company = "University of Minnesota"
   company_url = ""
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2017-07-01"
+  date_end = "2018-06-30"
+  description = """"""
+
+[[experience]]
+  title = "Resident, Pediatrics"
+  company = "University of Minnesota"
+  company_url = ""
+  location = "California"
+  date_start = "2014-07-01"
+  date_end = "2017-06-30"
+  description = """"""
 
 +++
