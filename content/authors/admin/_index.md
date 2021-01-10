@@ -1,11 +1,11 @@
 ---
-title: James Gray
-role: Fellow, Pediatric Emergency Medicine
+title: James Gray, MB, BCh
+role: Clinical Fellow, Pediatric Emergency Medicine
 bio: null
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Medical Education
+  - Clinical Informatics
+  - Pediatric Resuscitation
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,4 +25,4 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-James Gray is a clinical fellow in pediatric emergency medicine at Cincinnati Children's. His interests are in the intersection of technology, education, and the emergency care of acutely ill and injured children.
+James is a clinical fellow in pediatric emergency medicine at Cincinnati Children's. His interests are in the intersection of technology, education, and the emergency care of acutely ill and injured children.
