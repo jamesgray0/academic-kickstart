@@ -6,6 +6,8 @@ summary: "As the institution implemented a new stroke guideline in conjunction w
 authors: []
 tags: 
   - simulation
+  - education
+  - guideline
 categories: []
 date: 2021-01-10T21:00:08-05:00
 
