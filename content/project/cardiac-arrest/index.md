@@ -5,9 +5,9 @@ title: "Cardiac Arrest"
 summary: ""
 authors: []
 tags: 
-	- clinical
-	- qi
-	- resuscitation
+  - clinical
+  - qi
+  - resuscitation
 categories: []
 date: 2021-01-10T20:51:12-05:00
 

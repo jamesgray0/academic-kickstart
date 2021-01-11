@@ -5,7 +5,7 @@ title: "Stroke"
 summary: "As the institution implemented a new stroke guideline in conjunction with improved imaging capability, we developed a simulation curriculum, education modules, and new guideline."
 authors: []
 tags: 
-	- simulation
+  - simulation
 categories: []
 date: 2021-01-10T21:00:08-05:00
 
