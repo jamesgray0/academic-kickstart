@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Stroke"
+title: "New Stroke Pathway Development"
 summary: "As the institution implemented a new stroke guideline in conjunction with improved imaging capability, we developed a simulation curriculum, education modules, and new guideline."
 authors: []
-tags: 
+tags:
   - simulation
   - education
   - guideline
