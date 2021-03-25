@@ -8,7 +8,6 @@ tags:
   - education
 links: []
 image:
-  filename: screenshot-2021-01-10-163201.png
   focal_point: Smart
   preview_only: false
 ---
