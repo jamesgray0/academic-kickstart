@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2021-07-01"
   date_end = ""
-  description = """
+  description = """"""
 
 [[experience]]
   title = "Clinical Fellow, Pediatric Emergency Medicine"
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2018-07-01"
   date_end = "2021-06-30"
-  description = """
+  description = """"""
 
 [[experience]]
   title = "Master's in Education"
