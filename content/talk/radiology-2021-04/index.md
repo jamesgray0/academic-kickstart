@@ -1,5 +1,5 @@
 ---
-title: Joint PEM-Radiology conference
+title: "Joint PEM-Radiology Conference: Abdominal Pain"
 abstract: "A joint conference with the division of pediatric radiology reviewing recent imaging and clinical cases. We focused on the topic of appendicitis mimics and the role of imaging in the workup of undifferentiated abdominal pain in the ED."
 location: Cincinnati Children's Hospital Medical Center
 date: 2021-04-01

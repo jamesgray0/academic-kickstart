@@ -1,5 +1,5 @@
 ---
-title: Quick Hit Visual Diagnosis
+title: "Quick Hit Visual Diagnosis"
 abstract: "Interactive, gamified, remote, image-based teaching on rapid
   diagnosis. Mostly pediatric rashes, with a focus on racial inclusivity with a
   variety of skin types. "

@@ -1,5 +1,5 @@
 ---
-title: Joint PEM-PICU Conference: Hypernatremia
+title: "Joint PEM-PICU Conference: Hypernatremia"
 abstract: "In conjunction with a PICU fellow, we reviewed the initial management of severe hypernatremia, including the review of a video, the importance of fluid resuscitation, and the differential diagnosis."
 location: Cincinnati Children's Hospital Medical Center
 date: 2021-02-10
