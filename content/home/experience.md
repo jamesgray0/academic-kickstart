@@ -26,6 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
+[[experience]]
   title = "Fellow, Emergency Informatics"
   company = "Cincinnati Children's Hospital Medical Center"
   company_url = "http://cincinnatichildrens.org"
@@ -34,7 +35,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-
+[[experience]]
   title = "Clinical Fellow, Pediatric Emergency Medicine"
   company = "Cincinnati Children's Hospital Medical Center"
   company_url = "http://cincinnatichildrens.org"
