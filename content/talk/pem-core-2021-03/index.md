@@ -1,5 +1,5 @@
 ---
-title: PEM Board Review: Dental Emergencies
+title: PEM Board Review: Dental Emergencies 
 abstract: "A board review conference with practice questions followed by an expert discussion. For the board questions, I followed a modified team-based learning format where faculty and fellows answer questions individually, then discuss in small breakout groups and commit to an answer. We then review the correct answers as a large group, focusing on questions with disagreement."
 location: Cincinnati Children's Hospital Medical Center
 date: 2021-03-11
