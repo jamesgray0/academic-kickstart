@@ -8,7 +8,7 @@ categories: [GME, divisional, PEM, CCHMC]
 all_day: true
 # event: ""
 # event_url: ''
-draft: true
+draft: false
 featured: false
 
 ---
