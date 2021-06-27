@@ -6,6 +6,7 @@ featured: false
 tags:
   - education
   - curriculum
+  - leadership
 categories: []
 # external_link:
 image:
