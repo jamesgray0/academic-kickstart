@@ -8,6 +8,7 @@ location: University of Minnesota
 date: 2020-12-18T20:42:03.920Z
 # date_end: 2020-12-18T05:00:00.000Z
 all_day: true
+categories: [GME, residents, PEM, UMN]
 event: Pediatric Residency Program Block Education
 # event_url: '""'
 publishDate: 2021-01-10T20:42:04.042Z
@@ -18,6 +19,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+### Feedback
 <!--StartFragment-->
 
 > Also enjoyed James Gray with his thinking about dispo, evidence behind some of the things we use to anchor

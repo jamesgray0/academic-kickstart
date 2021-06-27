@@ -6,7 +6,7 @@ location: University of Cincinnati
 date: 2019-07-01
 date_end: 2021-06-30
 all_day: true
-categories: [UME, longitudinal]
+categories: [UME, medical students, longitudinal]
 
 publishDate: 2021-01-10T20:20:17.833Z
 draft: false

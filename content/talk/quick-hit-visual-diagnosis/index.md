@@ -5,6 +5,7 @@ abstract: "Interactive, gamified, remote, image-based teaching on rapid
   variety of skin types. "
 location: Cincinnati Children's Hospital Medical Center
 date: 2020-10-08T19:52:06.361Z
+categories: [GME, divisional, PEM, CCHMC]
 # date_end: 2020-10-08T19:55:31.551Z
 all_day: true
 # event: ""
@@ -17,6 +18,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+### Feedback
 <!--StartFragment-->
 
 > I truly loved the interactive mode of learning and the inclusion of different skin tones. Strong work.
