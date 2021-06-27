@@ -11,11 +11,11 @@ social:
     icon_pack: fab
     link: https://twitter.com/jamesgray0
 organizations:
-  - name: Cincinnati Children's Hospital Medical Centerß
+  - name: Cincinnati Children's Hospital Medical Center
     url: http://www.cincinnatichildrens.org
 education: null
 email: ""
 superuser: true
 highlight_name: false
 ---
-I am a staff physician and fellow in informatics at Cincinnati Children's Hospital Division of Emergency Medicine. My interests are in the intersection of technology, education, and the emergency care of acutely ill and injured children.
+I am a staff physician and fellow in informatics at the Cincinnati Children's Hospital Division of Emergency Medicine. My interests are in the intersection of technology, education, and the emergency care of acutely ill and injured children.
