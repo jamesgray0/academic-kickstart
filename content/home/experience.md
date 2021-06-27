@@ -17,14 +17,6 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Staff Physician, Emergency Medicine"
-  company = "Cincinnati Children's Hospital Medical Center"
-  company_url = "http://cincinnatichildrens.org"
-  location = ""
-  date_start = "2021-07-01"
-  date_end = ""
-  description = """
 
 [[experience]]
   title = "Fellow, Emergency Informatics"
@@ -43,8 +35,6 @@ date_format = "Jan 2006"
   date_start = "2018-07-01"
   date_end = "2021-06-30"
   description = """
-
-  """
 
 [[experience]]
   title = "Master's in Education"
