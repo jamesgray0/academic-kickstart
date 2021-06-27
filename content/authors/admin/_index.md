@@ -1,24 +1,21 @@
 ---
-title: James Gray, MB, BCh
-role: Clinical Fellow, Pediatric Emergency Medicine
+title: James Gray, MD, MEd
+role: Fellow, Emergency Informatics
 bio: null
 interests:
   - Medical Education
   - Clinical Informatics
-  - Pediatric Resuscitation
+  - Pediatric Resuscitation and Cardiac Arrest
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/jamesgray0
 organizations:
-  - name: Cincinnati Children's Hospital Medical Center
+  - name: Cincinnati Children's Hospital Medical Centerß
     url: http://www.cincinnatichildrens.org
 education: null
 email: ""
 superuser: true
 highlight_name: false
 ---
-I am a clinical fellow in pediatric emergency medicine and master's student in medical education at Cincinnati Children's. My interests are in the intersection of technology, education, and the emergency care of acutely ill and injured children.
+I am a staff physician and fellow in informatics at Cincinnati Children's Hospital Division of Emergency Medicine. My interests are in the intersection of technology, education, and the emergency care of acutely ill and injured children.
