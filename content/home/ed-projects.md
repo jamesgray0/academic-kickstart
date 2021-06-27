@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Education Projects"
-subtitle = "Curriculum development, simulation, etc."
+title = "Education Projects and Leadership"
+subtitle = "Curriculum development, simulation, leadership positions, etc."
 
 [content]
   # Page type to display. E.g. project.
@@ -33,9 +33,14 @@ subtitle = "Curriculum development, simulation, etc."
   [[content.filter_button]]
      name = "Simulation"
      tag = "simulation"
+
   [[content.filter_button]]
     name = "Guideline Development"
     tag = "guideline"
+
+    [[content.filter_button]]
+      name = "Leadership"
+      tag = "leadership"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -46,7 +51,7 @@ subtitle = "Curriculum development, simulation, etc."
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -72,10 +77,9 @@ subtitle = "Curriculum development, simulation, etc."
   # text_color_light = true  
 
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = ""
 
  # CSS class.
  css_class = ""
 +++
-
