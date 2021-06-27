@@ -1,6 +1,6 @@
 ---
 title: "Simulation Scenario: Pediatric Status Epilepticus with Difficult Ventilation"
-date: 2021-01-10T21:27:33.271Z
+date: 2020-01-01
 draft: false
 featured: false
 tags:

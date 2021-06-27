@@ -1,13 +1,13 @@
 ---
 title: Pediatric Residency Academic Half Day Curriculum
-date: 2021-01-10T21:00:42.008Z
+date: 2017-07-01
 draft: false
 featured: false
 tags:
   - education
   - curriculum
 categories: []
-# external_link: 
+# external_link:
 image:
   filename: featured
   focal_point: Smart
