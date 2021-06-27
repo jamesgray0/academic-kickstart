@@ -1,7 +1,7 @@
 ---
 title: Learning Communities
-abstract: "Instructor for a small group of second year medical students focused
-  on clinical reasoning. We meet weekly to discuss diagnosis and management."
+abstract: "Instructor and facilitator for a small group of medical students focused
+  on clinical reasoning. We met weekly throughout their pre-clinical years to discuss diagnosis, workup, and management."
 location: University of Cincinnati
 date: 2019-07-01
 date_end: 2021-06-30
