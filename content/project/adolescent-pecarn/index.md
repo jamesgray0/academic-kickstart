@@ -1,6 +1,6 @@
 ---
-title: "Digital Scholarship: PECARN Adolescent Podcast and Blog Post"
-date: 2020-01-01
+title: "Digital Scholarship: PECARN Adolescent Health Podcast and Blog Post"
+date: 2020-06-02
 draft: false
 featured: false
 categories: [online, PEM, research dissemination]
@@ -10,7 +10,7 @@ tags:
   - blog
   - education
   - dissemination
-links: []
+links: [http://pemcincinnati.com/blog/adolescents/]
 
 
 ---

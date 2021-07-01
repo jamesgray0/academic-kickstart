@@ -38,9 +38,13 @@ subtitle = "Curriculum development, simulation, leadership positions, etc."
     name = "Guideline Development"
     tag = "guideline"
 
-    [[content.filter_button]]
-      name = "Leadership"
-      tag = "leadership"
+  [[content.filter_button]]
+    name = "Leadership"
+    tag = "leadership"
+
+  [[content.filter_button]]
+    name = "Digital Scholarship"
+    tag = "digital-scholarship"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
