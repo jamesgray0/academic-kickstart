@@ -11,10 +11,10 @@ tags:
   - education
   - dissemination
 links:
- - name: Podcast and Blog
+ - name: Podcast and Blog Post
    url: http://pemcincinnati.com/blog/adolescents/
 
 
 
 ---
-In conjunction with Brad Sobolewski (pemblog.com) and the adolescent working group from PECARN, we created a blog post and podcast summarizing key research priorities for the group and answering common questions about adolescent health in the ED.
+In conjunction with Brad Sobolewski MD, MEd, and the adolescent working group from PECARN, we created a blog post and podcast summarizing key research priorities for the group and answering common questions about adolescent health in the ED.
