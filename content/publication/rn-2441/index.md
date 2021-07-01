@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Case Studies of Challenges in Emergency Care for Children With Autism Spectrum
-  Disorder
+title: Case Studies of Challenges in Emergency Care for Children With Autism Spectrum Disorder
 subtitle: ''
 summary: ''
 authors:

@@ -24,7 +24,7 @@ subtitle = "Curriculum development, simulation, leadership positions, etc."
 
   [[content.filter_button]]
      name = "All"
-     tag = "education"
+     tag = "*"
 
    [[content.filter_button]]
      name = "Curriculum Development"

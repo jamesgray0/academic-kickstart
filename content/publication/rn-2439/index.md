@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Procedural sedation in children with autism spectrum disorders in the emergency
-  department
+title: Procedural sedation in children with autism spectrum disorders in the emergency department
 subtitle: ''
 summary: ''
 authors:

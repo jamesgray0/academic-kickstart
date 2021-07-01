@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Tacrolimus‐associated hemolytic uremic syndrome in a pediatric heart transplant
-  recipient
+title: Tacrolimus‐associated hemolytic uremic syndrome in a pediatric heart transplant recipient
 subtitle: ''
 summary: ''
 authors:
