@@ -10,8 +10,8 @@ tags:
   - blog
   - education
   - dissemination
-  links:
-   - name: Podcast and Blog Post
-     url: http://pemcincinnati.com/blog/should-we-be-prescribing-probiotics-for-gastroenteritis/
+links:
+ - name: Podcast and Blog Post
+   url: http://pemcincinnati.com/blog/should-we-be-prescribing-probiotics-for-gastroenteritis/
 ---
 In conjunction with Brad Sobolewski (pemblog.com) and David Schnadower, we created a blog post and podcast summarizing the PECARN and PERC papers on probiotics for gastroenteritis.
