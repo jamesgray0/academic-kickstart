@@ -3,6 +3,7 @@ title: "Simulation Scenario: Pediatric Status Epilepticus with Difficult Ventila
 date: 2020-01-01
 draft: false
 featured: false
+categories: [simulation, PEM]
 tags:
   - simulation
   - education

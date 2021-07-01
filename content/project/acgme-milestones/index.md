@@ -3,6 +3,7 @@ title: Pediatric Emergency Medicine ACGME Milestones 2.0
 date: 2021-05-01
 draft: false
 featured: false
+categories: [GME, PEM, national]
 tags:
   - education
   - curriculum

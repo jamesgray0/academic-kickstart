@@ -3,6 +3,7 @@ title: Pediatric Residency Academic Half Day Curriculum
 date: 2017-07-01
 draft: false
 featured: false
+categories: [curriculum development, general pediatrics, GME]
 tags:
   - education
   - curriculum

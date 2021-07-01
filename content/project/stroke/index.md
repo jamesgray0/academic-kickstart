@@ -8,7 +8,7 @@ tags:
   - simulation
   - education
   - guideline
-categories: []
+categories: [simulation, PEM, CCHMC]
 date: 2020-08-01
 
 # Optional external URL for project (replaces project detail page).
