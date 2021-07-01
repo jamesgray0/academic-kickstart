@@ -10,7 +10,10 @@ tags:
   - blog
   - education
   - dissemination
-links: [http://pemcincinnati.com/blog/adolescents/]
+links:
+ - name: Podcast and Blog
+   url: http://pemcincinnati.com/blog/adolescents/
+
 
 
 ---
