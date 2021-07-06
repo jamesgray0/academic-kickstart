@@ -27,7 +27,7 @@ subtitle = "Curriculum development, simulation, leadership positions, etc."
      tag = "*"
 
    [[content.filter_button]]
-     name = "Curriculum Development"
+     name = "Curriculum"
      tag = "curriculum"
 
   [[content.filter_button]]
@@ -35,7 +35,7 @@ subtitle = "Curriculum development, simulation, leadership positions, etc."
      tag = "simulation"
 
   [[content.filter_button]]
-    name = "Guideline Development"
+    name = "Guidelines"
     tag = "guideline"
 
   [[content.filter_button]]
@@ -43,7 +43,7 @@ subtitle = "Curriculum development, simulation, leadership positions, etc."
     tag = "leadership"
 
   [[content.filter_button]]
-    name = "Digital Scholarship"
+    name = "Digital"
     tag = "digital-scholarship"
 
 [design]
